@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://hubandad.github.io/sitemap.xml
