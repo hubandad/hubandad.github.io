@@ -6,6 +6,16 @@
     <description>Recent content in Blog on huban&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Copyright © 2023, hubandad.</copyright><atom:link href="https://hubandad.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023, hubandad.</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://hubandad.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy Birthday to huban</title>
+      <link>https://hubandad.github.io/happy-birthday-to-huban/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://hubandad.github.io/happy-birthday-to-huban/</guid>
+      <description>Happy Birthday to our huban boy.</description>
+    </item>
+    
   </channel>
 </rss>
